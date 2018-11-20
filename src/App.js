@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React.  Resistance is futile.
+            Learn React.  Resistance is futile.  So sayeth Seven of Nine.
           </a>
         </header>
       </div>
